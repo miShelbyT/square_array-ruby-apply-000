@@ -1,3 +1,8 @@
 def square_array(array)
-  # your code here
+  array = [2, 5, 8]
+  array.each do |num|
+    square_array = ["#{num}**"]
 end
+
+# = "#{new_num} squared"
+#|new_num|
