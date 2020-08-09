@@ -4,4 +4,4 @@ def square_array(array)
   square_array(array) == "#{num}"**
 end
 
-square_array(array)
+puts square_array(array)
