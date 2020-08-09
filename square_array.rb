@@ -3,5 +3,4 @@ def square_array(array)
   array.each do |num|
   "#{num}"**
   square_array(array)
-  end
 end
