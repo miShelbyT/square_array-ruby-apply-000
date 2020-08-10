@@ -4,3 +4,5 @@ def square_array(array)
   "#{num}"**"#{num}"
   end
 end
+
+square_array(array) = "#{num}"**"#{num}"
