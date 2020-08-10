@@ -3,5 +3,3 @@ def square_array(array)
   array.each do |num|**|num|
   end
 end
-
-#square_array(array) == "#{num}"**"#{num}"
